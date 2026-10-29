@@ -6,7 +6,7 @@ A low-key Frontend developer looking forward to becoming a full-stack dev.
 
 * 🌍  I'm based in Rwanda
 * ✉️  You can contact me at [floraihozoraissa@gmail.com](mailto:floraihozoraissa@gmail.com)
-* 🧠  I'm currently learning React TS, Node JS and Express
+* 🧠  I'm currently learning Ethereum and dApp development using Solidity
 * 👥  I'm looking to collaborate on anything in your mind.
 
 <p align="left">
